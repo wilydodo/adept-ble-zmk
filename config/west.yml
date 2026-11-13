@@ -25,6 +25,10 @@ manifest:
     - name: zmk-pointing-acceleration-alpha
       remote: nuovotaka
       revision: main
+    - name: zmk-holyiot-boards
+      remote: holyiot
+      revision: main
+      path: modules/zmk-holyiot-boards
 
   self:
     path: config
