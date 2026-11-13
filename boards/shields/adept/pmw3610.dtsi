@@ -55,3 +55,7 @@
         force-high-performance;
     };
 };
+
+&trackball_split {
+    device = <&trackball>;
+};
