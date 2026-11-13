@@ -8,6 +8,8 @@ manifest:
       url-base: https://github.com/efogdev
     - name: nuovotaka
       url-base: https://github.com/nuovotaka
+    - name: holyiot
+      url-base: https://github.com/Thunderbird2086
 
   projects:
     - name: zmk
